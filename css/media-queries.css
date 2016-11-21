@@ -1,0 +1,30 @@
+/*<!-- "Разработка сервиса - KAMOD Creative Agency  vkamode.ru"  -->*/
+@media (max-width: 1940px) { 
+	
+}	
+
+/* #1- Large desktop */
+@media (max-width: 1520px) { 
+	.wrap-main .bg {
+		height: 100%;
+		width: auto;
+	}
+	.container.main.gag {
+	    padding-top: 5vh;
+	}
+	.gag .wheel {
+	    width: 330px;
+	    height: 330px;
+	}
+	.gag .soon, 
+	.gag .some-text {
+		font-size: 17px;
+	}
+	.gag .some-text,
+	.gag .share {
+		margin-bottom: 20px;
+	}
+}
+
+@media (max-width: 1200px) { 
+}
